@@ -63,16 +63,21 @@ plt.show()
 ```
 
 ## Output:
+
 i.) DataSet:
+
+![image](https://github.com/shoaib3136/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/117919362/5c35cf35-2b3b-4a5d-92ce-3e366e1e9523)
+
+ii.) DataSet plotted on a graph:
 
 ![image](https://github.com/shoaib3136/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/117919362/39f83ae4-64ff-47db-803f-0c70e79e1180)
 
 
-ii.) Centroid Values:
+iii.) Centroid Values:
 
 ![image](https://github.com/shoaib3136/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/117919362/0073d15f-f455-4653-b1e5-2dc67f085411)
 
-iii.) K-Means Cluster:
+iv.) K-Means Cluster:
 
 ![image](https://github.com/shoaib3136/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/117919362/b06a249b-b241-4991-9a28-eb131ec6b0bd)
 
